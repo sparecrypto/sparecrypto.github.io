@@ -27,6 +27,11 @@ Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and a
 - [Waves tokens H2OX Tipping Telegram group](https://t.me/H2OXTipping) - tipping and airdrops
 - [Waves tokens H2OX Trading Telegram group](https://t.me/H2OXTrading) - exchange SPARE Waves token for Waves or other Waves tokens
 
+**Other activity**:
+- Spare Crypto community on [Read.cash](https://read.cash/c/spare-crypto-1d5a)
+- Spare Crypto [Paywall](https://satoshiwall.cash/?ref=Spare%20Crypto)
+- Spare Crypto [Point-Of-Sale](https://app.bchpls.io/pos/customer/5ed105366fc9152b8a9451e4) - pay face-to-face via SPARE SLP token
+
 **Tools**:
 - Bitcoin Cash SLP compatible [wallet](https://wallet.bitcoin.com)
 - Waves [wallet](https://waves.exchange)
@@ -36,6 +41,6 @@ Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and a
 
 **_Disclaimer_**
 
-_Spare Crypto was created by Crypto Stockbok (B_S_Z) in March, 2020 and hosted previously on DPage service which was shut down on August 2020. The content we provide is for informational purposes only. This is not an investment and financial advice or recommendation_
+_Spare Crypto was created by [Crypto Stockbook](https://t.me/cryptostockbook) ([B_S_Z](https://t.me/b_s_z)) in March, 2020 and hosted previously on DPage service which was shut down on August 2020. The content we provide is for informational purposes only. This is not an investment and financial advice or recommendation_
 
 
