@@ -1,37 +1,41 @@
-## Welcome to GitHub Pages
+## Welcome to Spare Crypto
 
-You can use the [editor on GitHub](https://github.com/sparecrypto/sparecrypto.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Spare Crypto (SPARE) is a crypto community token for everyone
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The token is powered by Bitcoin Cash Simple Ledger Protocol (SLP) and Waves Protocol
 
-### Markdown
+Get token details from:
+- [Bitcoin Cash Explorer](https://explorer.bitcoin.com/bch/token/628db847bd246dfa5e41559eeee87915666fccccf50a2ea56f97cfe653030fe8)
+- [Waves Explorer](https://wavesexplorer.com/assets/GP4U9nK5vvNxmUKi5zqQ3LZgydG1fDnDopTFfhGYztTL)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and announcements
 
-```markdown
-Syntax highlighted code block
+### Main goals:
+- collect
+- reward
+- interact
+- exchange
+- cooperate
 
-# Header 1
-## Header 2
-### Header 3
+### Main distribution:
+- [Spare Crypto Telegram group](https://t.me/sparecryptofaucet) - SPARE SLP token faucet, SPARE SLP and SPARE Waves token tipping
+- [Memo](https://memo.cash/token/628db847bd246dfa5e41559eeee87915666fccccf50a2ea56f97cfe653030fe8?for-sale) - exchange SPARE SLP token for Bitcoin Cash
+- [Anycoin Exchange](https://anycoin.cash) - trade SPARE SLP token for Bitcoin Cash
+- [Trading with Mint Bot Telegram trading group](https://t.me/mintslptrade) - exchange SPARE SLP token for other SLP tokens
+- [Waves Exchange](https://waves.exchange) - trade SPARE Waves token for other coins, altcoins and Waves tokens
+- [SPARE Waves token faucet](https://h2ox.io/F6_43GUZQM9IE8OT2)
+- [Waves tokens H2OX Tipping Telegram group](https://t.me/H2OXTipping) - tipping and airdrops
+- [Waves tokens H2OX Trading Telegram group](https://t.me/H2OXTrading) - exchange SPARE Waves token for Waves or other Waves tokens
 
-- Bulleted
-- List
+**Tools**:
+- Bitcoin Cash SLP compatible [wallet](https://wallet.bitcoin.com)
+- Waves [wallet](https://waves.exchange)
+- Telegram [MintSLPBot](https://t.me/MintSLPBot)
+- Telegram [H2OXBot](https://t.me//h2oxbot)
 
-1. Numbered
-2. List
 
-**Bold** and _Italic_ and `Code` text
+**_Disclaimer_**
 
-[Link](url) and ![Image](src)
-```
+_Spare Crypto was created by Crypto Stockbok (B_S_Z) in March, 2020 and hosted previously on DPage service which was shut down on August 2020. The content we provide is for informational purposes only. This is not an investment and financial advice or recommendation_
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/sparecrypto/sparecrypto.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
