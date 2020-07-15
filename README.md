@@ -6,6 +6,7 @@ The token is powered by Bitcoin Cash Simple Ledger Protocol (SLP) and Waves Prot
 
 Get token details from:
 - [Bitcoin Cash Explorer](https://explorer.bitcoin.com/bch/token/628db847bd246dfa5e41559eeee87915666fccccf50a2ea56f97cfe653030fe8)
+- [SLP Tokens Explorer](https://simpleledger.info/token/628db847bd246dfa5e41559eeee87915666fccccf50a2ea56f97cfe653030fe8)
 - [Waves Explorer](https://wavesexplorer.com/assets/GP4U9nK5vvNxmUKi5zqQ3LZgydG1fDnDopTFfhGYztTL)
 
 Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and announcements
@@ -30,7 +31,7 @@ Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and a
 **Other activity**:
 - Spare Crypto community on [Read.cash](https://read.cash/c/spare-crypto-1d5a)
 - Spare Crypto [Paywall](https://satoshiwall.cash/?ref=Spare%20Crypto)
-- Spare Crypto [Point-Of-Sale](https://app.bchpls.io/pos/customer/5ed105366fc9152b8a9451e4) - pay face-to-face via SPARE SLP token
+- Spare Crypto [Point-Of-Sale](https://bchpls.io) - pay with SPARE SLP token or Bitcoin Cash
 
 **Tools**:
 - Bitcoin Cash SLP compatible [wallet](https://wallet.bitcoin.com)
