@@ -39,6 +39,10 @@ Join Spare Crypto Channel on [Telegram](https://t.me/sparecrypto) for news and a
 - Telegram [MintSLPBot](https://t.me/MintSLPBot)
 - Telegram [H2OXBot](https://t.me//h2oxbot)
 
+**Other tokens powered by Spare Crypto**:
+- MAZE - decentralized, mineable, proof-of-work SLP token. Vistit [MAZE](https://mazetoken.github.io)
+- ZOMBIE - no bullshit, just [ZOMBIE](https://cryptostockbook.github.io/zombietoken)
+- STEREO - collector's token for musicians and music fans. Vist [STEREO](https://cryptostockbook.github.io/stereotoken)
 
 **_Disclaimer_**
 
